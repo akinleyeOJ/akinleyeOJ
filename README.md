@@ -101,11 +101,11 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joseph's GitHub Stats" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=akinleyeOJ&theme=radical)
+<img src="https://streak-stats.demolab.com/?user=akinleyeOJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 [![Joseph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akinleyeOJ&theme=tokyo-night&hide_border=true)](https://github.com/akinleyeOJ)
 
