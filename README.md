@@ -4,8 +4,8 @@
 
 ### Frontend & Mobile Developer | React/React Native Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akinleyeoj.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://frontendtim.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinleyeoj)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frontendTim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinleyeoj@gmail.com)
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend and Mobile Developer** with **2+ years of production experience** building scalable React and React Native applications. Based in **Bydgoszcz, Poland**, I combine technical expertise with a user-first mindset shaped by **4+ years** of supporting thousands of users in technical roles.
+I'm a **Frontend and Mobile Developer** with **2+ years of production experience** building scalable React and React Native applications. Based in **Warsaw, Poland**, I combine technical expertise with a user-first mindset shaped by **4+ years** of supporting thousands of users in technical roles.
 
 - 🚀 **Founder & Lead Developer** of [Culturar](https://github.com/akinleyeOJ/culturar-waitlist) - a cross-platform cultural marketplace
 - 📱 Specialized in building production-ready React Native apps with payments, auth & real-time features
@@ -104,6 +104,8 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akinleyeOJ&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=akinleyeOJ&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -172,8 +174,8 @@ I'm always interested in collaborating on exciting projects or discussing opport
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://akinleyeoj.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF5722?style=for-the-badge)](https://frontendtim.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/akinleyeoj)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge)](https://twitter.com/frontendTim)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge)](mailto:akinleyeoj@gmail.com)
 
