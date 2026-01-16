@@ -179,8 +179,6 @@ I'm always interested in collaborating on exciting projects or discussing opport
 
 ---
 
-*"The best error message is the one that never shows up." - Thomas Fuchs*
-
 **Available for part-time and full-time opportunities** 🚀
 
 </div>
