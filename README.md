@@ -101,9 +101,7 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akinleyeOJ&theme=tokyonight&hide_border=true)
 ![Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com/?user=akinleyeOJ&theme=radical)
 
