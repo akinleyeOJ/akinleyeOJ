@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Joseph Akinleye 👋
+# Holla, I'm Joseph Akinleye
 
 ### Frontend & Mobile Developer | React/React Native Specialist
 
