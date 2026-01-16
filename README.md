@@ -109,6 +109,10 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 
 [![Joseph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akinleyeOJ&theme=tokyo-night&hide_border=true)](https://github.com/akinleyeOJ)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=akinleyeOJ&theme=radical)
+
 </div>
 
 ---
