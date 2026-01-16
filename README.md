@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend and Mobile Developer** with **2+ years of production experience** building scalable React and React Native applications. Based in **Warsaw, Poland**, I combine technical expertise with a user-first mindset shaped by **4+ years** of supporting thousands of users in technical roles.
+I'm a **Frontend and Mobile Developer** with **2+ years of production experience** building scalable React and React Native applications. Based in **Poland**, I combine technical expertise with a user-first mindset shaped by **4+ years** of supporting thousands of users in technical roles.
 
 - 🚀 **Founder & Lead Developer** of [Culturar](https://github.com/akinleyeOJ/culturar-waitlist) - a cross-platform cultural marketplace
 - 📱 Specialized in building production-ready React Native apps with payments, auth & real-time features
 - 🌱 Currently deepening my expertise in mobile performance optimization and React Native architecture
-- 💡 Passionate about translating user pain points into intuitive, reliable software solutions and this is coming from my 4+ years working as a support specialist
+- 💡 Passionate about translating user pain points into intuitive, reliable software solutions - a skill honed through 4+ years as a support specialist
 
 ---
 
@@ -101,17 +101,22 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Joseph's GitHub Stats" />
+<a href="https://github.com/akinleyeOJ">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=akinleyeOJ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=akinleyeOJ&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Joseph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akinleyeOJ&theme=tokyo-night&hide_border=true)](https://github.com/akinleyeOJ)
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical)
+<div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=akinleyeOJ&theme=radical)
+[![Joseph's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akinleyeOJ&theme=react-dark&hide_border=true&area=true)](https://github.com/akinleyeOJ)
 
 </div>
 
@@ -183,6 +188,7 @@ I'm always interested in collaborating on exciting projects or discussing opport
 
 ---
 
+*"The best error message is the one that never shows up." - Thomas Fuchs*
 
 **Available for part-time and full-time opportunities** 🚀
 
