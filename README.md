@@ -100,17 +100,8 @@ Interactive portfolio showcasing my journey and work as a software engineer.
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/akinleyeOJ">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akinleyeOJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akinleyeOJ&layout=compact&langs_count=8&theme=radical"/>
-</a>
-
-</div>
-
-<div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=akinleyeOJ&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://nirzak-streak-stats.vercel.app/?user=akinleyeOJ&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 
 </div>
 
